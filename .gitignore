@@ -1,0 +1,4 @@
+#Ignore simulink cache files
+*.slxc 
+*.mexw64
+slprj
